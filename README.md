@@ -1,5 +1,7 @@
 ![Header](res/header.png)
 
+<p align="center">Actively seeking <strong>Summer 2026 Software Engineering Internship</strong> opportunities</p>
+
 ### 🧩 When I code, I use:
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
@@ -21,7 +23,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-### 🧭 About Me
+## 🧭 About Me
 
 Hi, I'm Gerry — a **Computer Science graduate student at Northeastern University**.  
 I enjoy building **AI-driven and full-stack applications** that make systems smarter and more intuitive.  
@@ -33,21 +35,29 @@ Before transitioning into CS, I worked in architecture and design, which taught 
 - 💡 Projects: AI-assisted Todo app, design automation tools, VR puzzle game  
 - 🎓 Looking for **Summer 2026 software / AI internships**  
 
+## Featured Project
+![Raccoon AI Todolist](res/project_banner/raccoon.png)
+### Raccoon AI Todolist
+An AI-driven full-stack productivity web app that combines intelligent task generation with a clean and responsive design. Built with LangChain to help users plan with AI, organize, and manage learning goals more efficiently.  
 
-### 🎨 Fun Facts About Me
+**Keywords:** AI • Full Stack • Multiservice • MERN • JWT
+
+
+
+## 🧠 Research & Vision
+
+I’m dedicated to exploring how **computer science can transform architecture** — using algorithms, AI, and data-driven systems to rethink spatial design and creativity.  
+As an **independent researcher**, I focus on computational design, generative systems, and human–machine collaboration in the creative process.  
+
+📄 Read my paper: [My Research Paper](https://doi.org/10.1016/j.jobe.2024.111621)
+
+## 🎨 Fun Facts About Me
 
 - 🕹️ I once built a **VR puzzle game**, blending architecture and computer science.  
 - 🎿 I love **skiing, snowboarding, hiking**, and exploring new trails.  
 - 🗣️ I enjoy **talking with people** and learning from different perspectives.  
 - 🖼️ I'm drawn to **art, design**, specially 3D and Computational Generated Art  
 - 🎨 I’m also an **artist** — check out my works at [Portfolio](https://gerrytao.com/)
-
-### 🧠 Research & Vision
-
-I’m dedicated to exploring how **computer science can transform architecture** — using algorithms, AI, and data-driven systems to rethink spatial design and creativity.  
-As an **independent researcher**, I focus on computational design, generative systems, and human–machine collaboration in the creative process.  
-
-📄 Read my paper: [My Research Paper](https://doi.org/10.1016/j.jobe.2024.111621)
 
 ---
 
