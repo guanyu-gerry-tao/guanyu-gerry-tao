@@ -41,6 +41,7 @@ Before transitioning into CS, I worked in architecture and design, which taught 
 <p align="center">
   <img src="res/project_banner/raccoon.png" alt="Raccoon AI Todolist" width="500"/>
 </p>
+
 ### Raccoon AI Todolist
 An AI-driven full-stack productivity web app that combines intelligent task generation with a clean and responsive design. Built with LangChain to help users plan with AI, organize, and manage learning goals more efficiently.  
 
