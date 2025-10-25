@@ -1,4 +1,6 @@
-![Header](res/header.png)
+<p align="center">
+  <img src="res/header.png" alt="Raccoon AI Todolist" width="800"/>
+</p>
 
 <p align="center">Actively seeking <strong>Summer 2026 Software Engineering Internship</strong> opportunities</p>
 
@@ -36,7 +38,9 @@ Before transitioning into CS, I worked in architecture and design, which taught 
 - 🎓 Looking for **Summer 2026 software / AI internships**  
 
 ## Featured Project
-![Raccoon AI Todolist](res/project_banner/raccoon.png)
+<p align="center">
+  <img src="res/project_banner/raccoon.png" alt="Raccoon AI Todolist" width="500"/>
+</p>
 ### Raccoon AI Todolist
 An AI-driven full-stack productivity web app that combines intelligent task generation with a clean and responsive design. Built with LangChain to help users plan with AI, organize, and manage learning goals more efficiently.  
 
