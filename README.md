@@ -2,7 +2,7 @@
 
 **CS Graduate Student @ Northeastern University**  
 Full-Stack · Backend · AI  
-Previously: Architecture & Design
+Also: Architecture & Design
 
 ---
 
